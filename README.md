@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, seja bem vinde ao meu perfil! ⭐
 
-<!--
-**madiesasa/madiesasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sabrina
 
-Here are some ideas to get you started:
+- 🌙 Eu estou estudando no [Alura](https://www.alura.com.br/)
+- 🌙 Desenvolvendo minha habilidade no JavaScript
+- 🌙 Estarei compartilhando meus projetos por aqui <3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo aqui 
+👇
+
+instagram: @sbzorzi
+
+twitter: @ninaunverse
+
+![](https://media1.tenor.com/m/ssPA7n-7pG0AAAAC/sailor-moon-anime.gif)
